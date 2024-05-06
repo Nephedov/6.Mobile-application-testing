@@ -4,7 +4,7 @@
 ### Задание 1
 * <a href="https://github.com/Nephedov/6.Mobile-application-testing/blob/main/app/src/androidTest/java/com/netology/tabbedapplication/MainActivityTestHomework.java">MainActivityTestHomework.java</a> -
   инструментальные автотесты, реализованные с помощью Espresso Test Recorder.
-### Задание 2
+
 
 ## Что было сделано
 ### Задание 1
