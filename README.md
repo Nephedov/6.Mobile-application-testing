@@ -13,6 +13,10 @@
   <a href="https://github.com/Nephedov/6.Mobile-application-testing/blob/main/app/src/androidTest/java/com/netology/tabbedapplication/MainActivityTestHomework.java">MainActivityTestHomework.java</a>.
 
 
+---
+---
+
+
 ## Описание Задания 1. Экран с вкладками
 
 Проверьте функционирование небольшого приложения, в котором реализовано переключение между вкладками. Для этого напишите автотест с помощью Espresso Test Recorder.
